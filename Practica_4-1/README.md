@@ -39,7 +39,7 @@ En esta práctica, se usa `xTaskCreate()` para generar una tarea adicional que c
    monitor_speed = 115200
    ```  
 
-### **4.2 Programación**  
+### **5.2 Programación**  
 Código en `main.cpp`:  
 ```cpp
 #include <Arduino.h>
@@ -77,13 +77,13 @@ void anotherTask(void * parameter) {
 - **`loop()`**: Tarea principal que imprime un mensaje cada segundo.  
 - **`anotherTask()`**: Tarea secundaria con un bucle infinito que también imprime mensajes.  
 
-### **4.3 Subida y monitorización**  
+### **5.3 Subida y monitorización**  
 1. Compilar y cargar el código en el ESP32-S3.  
 2. Abrir el **monitor serie** (115200 baudios) para observar las salidas.  
 
 ---
 
-## **5. Resultados**  
+## **6. Resultados**  
 - **Salida del puerto serie**:  
   ```plaintext
   This is ESP32 Task
