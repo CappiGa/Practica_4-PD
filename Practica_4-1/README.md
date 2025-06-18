@@ -2,7 +2,6 @@
 
 ## **1. Descripción**  
 Esta práctica introduce el uso de **FreeRTOS** en el **ESP32-S3** para gestionar múltiples tareas de manera concurrente mediante un sistema operativo en tiempo real (RTOS). Se implementarán dos tareas: una en el bucle principal (`loop`) y otra creada manualmente, demostrando cómo el planificador de FreeRTOS distribuye el tiempo de la CPU entre ellas.  
-
 ---
 
 ## **2. Objetivos**  
@@ -23,7 +22,7 @@ En esta práctica, se usa `xTaskCreate()` para generar una tarea adicional que c
 ## **4. Materiales**  
 - **ESP32-S3**  
 - **Cable USB tipo C**  
- 
+ ![Image](https://github.com/user-attachments/assets/860c83dc-7289-4f3f-a3db-98908957f6a6)
 ---
 
 ## **5. Desarrollo**  
