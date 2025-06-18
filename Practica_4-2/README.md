@@ -21,10 +21,9 @@ Esta práctica profundiza en el uso de **FreeRTOS** para la sincronización de t
 ## **3. Materiales**  
 - **ESP32-S3**  
 - **LED** conectado al pin 2.  
-- **Resistencia de 220Ω** (para el LED).  
-- **Protoboard y cables**.  
+- **Resistencia de 220Ω** (para el LED).   
 - **Cable USB-C**.  
-
+ ![Image](https://github.com/user-attachments/assets/860c83dc-7289-4f3f-a3db-98908957f6a6)
 ---
 
 ## **4. Desarrollo**  
