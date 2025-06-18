@@ -22,7 +22,7 @@ En esta práctica, se usa `xTaskCreate()` para generar una tarea adicional que c
 ## **4. Materiales**  
 - **ESP32-S3**  
 - **Cable USB tipo C**  
- ![Image](https://github.com/user-attachments/assets/860c83dc-7289-4f3f-a3db-98908957f6a6)
+
 ---
 
 ## **5. Desarrollo**  
